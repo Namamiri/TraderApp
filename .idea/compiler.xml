@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="trader.client.base" target="1.5" />
+      <module name="trader.contact.base" target="1.5" />
+      <module name="trader.exchange.base" target="1.5" />
+      <module name="trader.recorder.base" target="1.5" />
+      <module name="trader.server.base" target="1.5" />
+      <module name="trader.simulator.base" target="1.5" />
+      <module name="TradingApp" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

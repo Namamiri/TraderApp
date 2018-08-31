@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TradingApp.iml" filepath="$PROJECT_DIR$/TradingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trader.client.base/trader.client.base.iml" filepath="$PROJECT_DIR$/trader.client.base/trader.client.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trader.contact.base/trader.contact.base.iml" filepath="$PROJECT_DIR$/trader.contact.base/trader.contact.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trader.exchange.base/trader.exchange.base.iml" filepath="$PROJECT_DIR$/trader.exchange.base/trader.exchange.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trader.recorder.base/trader.recorder.base.iml" filepath="$PROJECT_DIR$/trader.recorder.base/trader.recorder.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trader.server.base/trader.server.base.iml" filepath="$PROJECT_DIR$/trader.server.base/trader.server.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trader.simulator.base/trader.simulator.base.iml" filepath="$PROJECT_DIR$/trader.simulator.base/trader.simulator.base.iml" />
+    </modules>
+  </component>
+</project>
